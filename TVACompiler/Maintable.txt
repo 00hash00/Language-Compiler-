@@ -1,0 +1,6 @@
+A 	 class 	 Default 	 General 	 None
+J 	 class 	 Default 	 abstract 	 A
+X 	 interface 	 Default 	 General 	 None
+K 	 interface 	 Default 	 General 	 X
+Y 	 interface 	 Default 	 General 	 K,X
+P 	 class 	 Default 	 General 	 K,Y

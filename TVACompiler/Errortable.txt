@@ -1,0 +1,72 @@
+Undeclared Variable at Line # 7
+Type Mismatch Error at Line # 7
+Redeclaration Error at Line # 8
+Type Mismatch Error at Line # 8
+Undeclared Variable at Line # 11
+Undeclared Variable at Line # 11
+Undeclared Variable at Line # 11
+Undeclared function at Line # 13
+Undeclared Variable at Line # 14
+Type Mismatch Error at Line # 16
+Type Mismatch Error at Line # 17
+Type Mismatch Error at Line # 18
+Type Mismatch Error at Line # 29
+Type Mismatch Error at Line # 30
+Redeclaration Error at Line # 33
+Undeclared function at Line # 34
+Undeclared Variable/object at Line # 36
+Undeclared Variable at Line # 36
+Type Mismatch Error at Line # 38
+Undeclared function at Line # 46
+Redeclaration Error at Line # 53
+Redeclaration Error at Line # 64
+Redeclaration Error at Line # 71
+Redeclaration Error at Line # 76
+Redeclaration Error at Line # 77
+Redeclaration Error at Line # 78
+Redeclaration Error at Line # 5
+Redeclaration Error at Line # 6
+Redeclaration Error at Line # 7
+Undeclared Variable at Line # 7
+Type Mismatch Error at Line # 7
+Redeclaration Error at Line # 8
+Type Mismatch Error at Line # 8
+Redeclaration Error at Line # 9
+Undeclared Variable at Line # 11
+Undeclared Variable at Line # 11
+Undeclared function at Line # 13
+Undeclared Variable at Line # 14
+Redeclaration Error at Line # 14
+Redeclaration Error at Line # 16
+Type Mismatch Error at Line # 16
+Redeclaration Error at Line # 17
+Type Mismatch Error at Line # 17
+Redeclaration Error at Line # 18
+Type Mismatch Error at Line # 18
+Redeclaration Error at Line # 29
+Type Mismatch Error at Line # 29
+Redeclaration Error at Line # 30
+Type Mismatch Error at Line # 30
+Redeclaration Error at Line # 32
+Redeclaration Error at Line # 33
+Undeclared function at Line # 34
+Undeclared Variable/object at Line # 36
+Undeclared Variable at Line # 36
+Redeclaration Error at Line # 38
+Type Mismatch Error at Line # 38
+Redeclaration Error at Line # 44
+Redeclaration Error at Line # 45
+Undeclared function at Line # 46
+Redeclaration Error at Line # 52
+Redeclaration Error at Line # 53
+Redeclaration Error at Line # 62
+Redeclaration Error at Line # 63
+Redeclaration Error at Line # 64
+Redeclaration Error at Line # 67
+Redeclaration Error at Line # 69
+Redeclaration Error at Line # 71
+Redeclaration Error at Line # 76
+Redeclaration Error at Line # 77
+Redeclaration Error at Line # 78
+Redeclaration Error at Line # 80
+Valid Syntax

@@ -1,0 +1,80 @@
+#I'm here
+#/ 1
+2
+3/#
+class A {
+int t;
+float a=nn;
+float a=1.2;
+public static void def AB(int c){
+print("something");
+t=p;
+}
+this.defcall HUMZA();
+A p = new A();
+PSVM(String[] args) {
+float b=3.1;
+float c=4.5e-6;
+float d=7.8e+9;
+if(a<=b){print("something");}
+else{
+print("I'm here");
+}
+switch(a){
+case 1:
+break;
+case 2:
+continue;
+}
+for(int i=0;i<=5;i--){
+int a=b;
+}
+Array int[][] abc = {{3},{5}};
+Arraylist<int> abc = new Arraylist<>();
+defcall A (a);
+#a.defcall A();
+this.HUMZA=BOOMER;
+public int def AA(int c, String v){
+int z = c;
+return 123;
+}
+}
+}
+
+abstract class J extend A{
+private abstract int def ABC (#/int a, float b, String c/#);
+defcall A (a);
+#public int def ABC(int v);
+}
+
+
+
+interface X {
+private abstract int def ABC (int a, float b, String c);
+#{
+#int a =b;
+#return a;}
+
+#override
+#public static void def(int c);
+#virtual
+
+Arraylist<int> abc = new Arraylist<>();
+Array int [][] xyz;
+Array int [][] xyz = {{1,2,3},{4,5,6}};
+
+}
+interface K extend X{}
+
+interface Y extend K,X{
+#public int def ABC(int v);
+private abstract int def ABC (int a, float b, String c);
+#{
+#int a =b;
+#return a;}
+
+Arraylist<int> abc = new Arraylist<>();
+Array int [][] xyz;
+Array int [][] xyz = {{1,2,3},{4,5,6}};
+}
+class P implements K,Y{}

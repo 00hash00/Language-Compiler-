@@ -1,0 +1,21 @@
+Name 	 Type 	 A.M 	 T.M 	 Scope
+t 	 int 	 Default 	 none 	 1
+a 	 float 	 Default 	 none 	 1
+AB 	 void 	 public 	 none 	 1
+p 	  	 Default 	 none 	 1
+b 	 float 	 Default 	 none 	 2
+c 	 float 	 Default 	 none 	 2
+d 	 float 	 Default 	 none 	 2
+i 	 int 	 Default 	 none 	 2
+a 	 int 	 Default 	 none 	 3
+abc 	 int 	 Default 	 none 	 2
+AA 	 int,String --> int 	 public 	 none 	 2
+Name 	 Type 	 A.M 	 T.M 	 Scope
+ABC 	 int 	 private 	 none 	 1
+Name 	 Type 	 A.M 	 T.M 	 Scope
+abc 	 int 	 Default 	 none 	 1
+xyz 	 int 	 Default 	 none 	 1
+Name 	 Type 	 A.M 	 T.M 	 Scope
+Name 	 Type 	 A.M 	 T.M 	 Scope
+Name 	 Type 	 A.M 	 T.M 	 Scope
+AA 	 int,String --> int 	 public 	 none 	 2
